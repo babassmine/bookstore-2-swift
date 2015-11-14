@@ -16,6 +16,7 @@
 		CE983E6A1BF56D4C000C63FB /* BookStore2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE983E691BF56D4C000C63FB /* BookStore2Tests.swift */; };
 		CE983E751BF56D4C000C63FB /* BookStore2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE983E741BF56D4C000C63FB /* BookStore2UITests.swift */; };
 		CE983E851BF5919B000C63FB /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE983E841BF5919B000C63FB /* Book.swift */; settings = {ASSET_TAGS = (); }; };
+		CE983E871BF77A3E000C63FB /* BookStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE983E861BF77A3E000C63FB /* BookStore.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		CE983E741BF56D4C000C63FB /* BookStore2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookStore2UITests.swift; sourceTree = "<group>"; };
 		CE983E761BF56D4C000C63FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE983E841BF5919B000C63FB /* Book.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
+		CE983E861BF77A3E000C63FB /* BookStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				CE983E841BF5919B000C63FB /* Book.swift */,
 				CE983E561BF56D4B000C63FB /* DetailViewController.swift */,
 				CE983E581BF56D4B000C63FB /* Main.storyboard */,
+				CE983E861BF77A3E000C63FB /* BookStore.swift */,
 				CE983E5B1BF56D4B000C63FB /* Assets.xcassets */,
 				CE983E5D1BF56D4B000C63FB /* LaunchScreen.storyboard */,
 				CE983E601BF56D4B000C63FB /* Info.plist */,
@@ -264,6 +267,7 @@
 				CE983E851BF5919B000C63FB /* Book.swift in Sources */,
 				CE983E571BF56D4B000C63FB /* DetailViewController.swift in Sources */,
 				CE983E551BF56D4B000C63FB /* MasterViewController.swift in Sources */,
+				CE983E871BF77A3E000C63FB /* BookStore.swift in Sources */,
 				CE983E531BF56D4B000C63FB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
