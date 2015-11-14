@@ -33,7 +33,7 @@ class DetailViewController: UIViewController {
         
         if let detail: AnyObject = self.detailItem
         {
-            var myBook = detail as! Book
+            let myBook = detail as! Book
             titleLabel.text = myBook.title
             authorLabel.text = myBook.author
             descLabel.text = myBook.desc
