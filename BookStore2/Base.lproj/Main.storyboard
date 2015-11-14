@@ -53,7 +53,11 @@
                     <navigationItem key="navigationItem" title="Detail" id="mOI-FS-AaM"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
                     <connections>
+                        <outlet property="authorLabel" destination="d7k-ak-2Sv" id="I1s-uF-a0l"/>
+                        <outlet property="desc_label" destination="6WG-0y-xlE" id="4WN-O7-36S"/>
+                        <outlet property="descriptionTextView" destination="z7y-bf-o4C" id="GD9-di-xau"/>
                         <outlet property="detailDescriptionLabel" destination="0XM-y9-sOw" id="deQ-Na-JPF"/>
+                        <outlet property="titleLabel" destination="jl1-1N-PUN" id="Dxt-uq-zyS"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FJe-Yq-33r" sceneMemberID="firstResponder"/>
